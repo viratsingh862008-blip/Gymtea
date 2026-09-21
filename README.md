@@ -23,7 +23,7 @@ The site is intentionally not a generic furniture catalogue. It combines editori
 
 ## Public business/catalogue research
 
-The current public research identifies Richa Furniture's Bettiah showroom at Sunita Heights, Supriya Cinema Road, Mirza Tola Road, Bettiah, Bihar 845438, with the publicly listed counter number +91 88779 27486 and 10:00–20:00 daily hours. The public catalogue source also exposes 23 pieces across beds, sofas, dining, storage and accents, with indicative prices and showroom-first purchasing. Always confirm current stock, final price and finish with the showroom.
+The current public research identifies Richa Furniture's Bettiah showroom at Sunita Heights, Supriya Cinema Road, Mirza Tola Road, Bettiah, Bihar 845438, with the publicly listed counter number +91 88779 27486 and 10:00–20:00 daily hours. Public Kinwud/Richa pages expose actual catalogue names and product imagery, including Solace, Cascade, Rivena, Marisol, Aurelia, Colonna, Lyra, Verona, Elara, Lumen, Onyx, Scholar and Coronet, plus an actual Richa Furniture showroom photograph. The site now uses those public business assets instead of generic furniture placeholders. Final stock, pricing, finish availability and image usage rights should be confirmed with the business before production.
 
 ## Development
 
