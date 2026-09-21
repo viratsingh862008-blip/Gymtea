@@ -18,6 +18,7 @@ The site is intentionally not a generic furniture catalogue. It combines editori
 - Room-width measurement control
 - Horizontal lookbook
 - Showroom-first conversion flow
+- Private browser-only voice room brief with playback/clear controls
 - Mobile-first navigation and enquiry UX
 
 ## Public business/catalogue research
